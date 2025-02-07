@@ -1,2 +1,0 @@
-# JavaCloudNative
-Repositórios do curso
